@@ -8,7 +8,7 @@ date: 2001-06-01 12:00:00
 ### Explaining recipe a02.py
  
 The spreadsheet we're going to extract data from is `a02.xls`. It's
-available [here](https://github.com/SensibleCodeIO/quickcode-ons-recipes) together
+available [here](https://github.com/sensiblecodeio/quickcode-ons-recipes) together
 with the recipe `a02.py` which we're going to walk through
 step-by-step in this tutorial.
 
